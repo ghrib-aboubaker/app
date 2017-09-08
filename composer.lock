@@ -1074,12 +1074,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ghrib-aboubaker/mullenlowe-etl.git",
-                "reference": "e82ea281a92f787e16f09179aea9be94e726e965"
+                "reference": "c41fc3de7e6c8e4fb7b24a24eb8f5cec28cf7c06"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ghrib-aboubaker/mullenlowe-etl/zipball/e82ea281a92f787e16f09179aea9be94e726e965",
-                "reference": "e82ea281a92f787e16f09179aea9be94e726e965",
+                "url": "https://api.github.com/repos/ghrib-aboubaker/mullenlowe-etl/zipball/c41fc3de7e6c8e4fb7b24a24eb8f5cec28cf7c06",
+                "reference": "c41fc3de7e6c8e4fb7b24a24eb8f5cec28cf7c06",
                 "shasum": ""
             },
             "require": {
@@ -1096,7 +1096,7 @@
                 "source": "https://github.com/ghrib-aboubaker/mullenlowe-etl/tree/master",
                 "issues": "https://github.com/ghrib-aboubaker/mullenlowe-etl/issues"
             },
-            "time": "2017-09-01 16:01:34"
+            "time": "2017-09-04 13:22:25"
         },
         {
             "name": "paragonie/random_compat",

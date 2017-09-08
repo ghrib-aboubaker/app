@@ -12,8 +12,9 @@ class DefaultController extends Controller
      */
     public function indexAction()
     {
-        $obj = $this->get('mullenlowe.etl.foo');
-        dump($obj->getGreeting());
+        // $obj = $this->get('mullenlowe.etl.foo');
+        // dump($obj->getGreeting());
+        dump($this->getParameter('param1'));
         exit;
     }
 }

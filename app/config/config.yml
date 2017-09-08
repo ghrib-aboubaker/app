@@ -67,3 +67,8 @@ swiftmailer:
     username: '%mailer_user%'
     password: '%mailer_password%'
     spool: { type: memory }
+
+mullenlowe_etl:
+    param1: '%param1%'
+    param2: '%param2%'
+
